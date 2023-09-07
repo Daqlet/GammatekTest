@@ -1,9 +1,8 @@
 # GammatekTest
 
-Testing utility with client:
+**Testing utility with client:**
 
-C:> .\client.exe
-
+_C:> .\client.exe_
 WinSock initialization is OK
 
 Client socket initialization is OK
