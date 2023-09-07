@@ -3,6 +3,7 @@
 **Testing utility with client:**
 
 _C:> .\client.exe_
+
 WinSock initialization is OK
 
 Client socket initialization is OK
